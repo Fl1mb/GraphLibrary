@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  BinarySearchTree.cpp
+  Trie.cpp
+  Создание кода...
+C:\Users\Данила\OneDrive\Рабочий стол\C++\Test\GraphsLibrary\GraphsLibrary\BinarySearchTree.cpp(73,1): warning C4715: BinarySearchTree::operator=: значение возвращается не при всех путях выполнения
+  GraphsLibrary.vcxproj -> C:\Users\Данила\OneDrive\Рабочий стол\C++\Test\GraphsLibrary\x64\Debug\GraphsLibrary.exe
